@@ -1,2 +1,2 @@
 FROM payara/micro
-COPY /Users/newt.hsieh/eclipse-workspace/micro/target/micro.war ${DEPLOY_DIR}
+COPY /var/lib/jenkins/jobs/officialsample/jobs/officialsample-php/workspace/micro.war ${DEPLOY_DIR}
